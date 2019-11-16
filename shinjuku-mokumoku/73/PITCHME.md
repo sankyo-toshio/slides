@@ -1,6 +1,6 @@
 ## フロントエンドの勉強に個人ブログを安価な構成でつくりたい
 
-@6stts9
+@3to_day
 
 on shinjuku mokumoku programming #72
 
