@@ -18,6 +18,8 @@ on shinjuku mokumoku programming #72
  * 開始前
  　　![before](before.png)
    * Cloudfront - S3でSPAを載せただけ
+
+---
  * やること
    - [ ] https化
    - [ ] ドメイン設定
