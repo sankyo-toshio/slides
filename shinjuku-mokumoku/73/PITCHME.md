@@ -16,7 +16,9 @@ on shinjuku mokumoku programming #72
 
 - 限りなくやすい構成で投稿を継続したくなるブログを作る
  * 開始前
- 　　![before](https://github.com/sankyo-toshio/slides/blob/master/shinjuku-mokumoku/73/before.png)
+ 
+ 　　![before](/before.png)
+   
    * Cloudfront - S3でSPAを載せただけ
 
 ---
