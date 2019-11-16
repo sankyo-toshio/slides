@@ -17,7 +17,7 @@ on shinjuku mokumoku programming #72
 - 限りなくやすい構成で投稿を継続したくなるブログを作る
  * 開始前
  
- 　　![before](/before.png)
+ 　　![before](./before.png)
    
    * Cloudfront - S3でSPAを載せただけ
 
@@ -37,6 +37,11 @@ on shinjuku mokumoku programming #72
 
 ## できたこと
 
+---
+## 辛かったこと
+* 何度画面更新しても選択できなかったがサインアウトすると選択可能に
+
+* ![cfn_ssl](./cfn_ssl.png)
 
 ---
 
